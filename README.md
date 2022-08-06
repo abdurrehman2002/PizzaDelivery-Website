@@ -1,4 +1,4 @@
-# ReactJs-Yoga-Website
+# Description
 This is a Pizza Delivery website.This website is fully developed in react js.
 
 # Installation
